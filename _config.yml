@@ -1,0 +1,36 @@
+# Site settings
+title: HPatches
+url: "https://hpatches.github.io"
+github_username:  hpatches
+GoogleAnalytics: UA-62863910-4
+
+sass:
+    style: compressed
+
+# Build settings
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jemoji
+
+defaults:
+    - {scope: {type: posts}, values: {layout: post, permalink: '/blog/:title'}}
+
+include:
+  - _pages
+
+exclude:
+  - CNAME
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+paginate: 12
+paginate_path: '/blog/:num'
