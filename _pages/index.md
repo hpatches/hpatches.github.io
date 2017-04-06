@@ -12,7 +12,7 @@ permalink: /
 
 - Vassileios Balntas, Imperial College London
 - Karel Lenc, University of Oxford
-- Andea Vedaldi, University of Oxford
+- Andrea Vedaldi, University of Oxford
 - Krystian Mikolajczyk, Imperial College London
 
 ---
