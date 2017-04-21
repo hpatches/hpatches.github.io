@@ -1,10 +1,11 @@
 ---
 layout: default
+title: HPatches - A benchmark and evaluation of handcrafted and learned local descriptors
 avatar: true
 permalink: /
 ---
 
-## 🗃 Repositories related to HPatches
+## <i class="fa fa-github" aria-hidden="true"></i>  Repositories related to HPatches
 
 | [`hpatches-benchmark`](https://github.com/hpatches/hpatches-benchmark)   | evaluation code |
 | [`hpatches-decriptors`](https://github.com/hpatches/hpatches-descriptors)| pre-computed descriptor templates | 
@@ -12,7 +13,7 @@ permalink: /
 
 ---
 
-## 👤 People
+## <i class="fa fa-user" aria-hidden="true"></i> People
 
 - Vassileios Balntas, Imperial College London
 - Karel Lenc, University of Oxford
@@ -21,7 +22,7 @@ permalink: /
 
 ---
 
-## 📚 Publications
+## <i class="fa fa-book" aria-hidden="true"></i> Publications
 HPatches: A benchmark and evaluation of handcrafted and learned local descriptors  
 Vassileios Balntas<sup>*</sup>, Karel Lenc<sup>*</sup>, Andrea Vedaldi and Krystian Mikolajczyk, CVPR 2017.  
 <sup>*</sup>Authors contributed equally.
