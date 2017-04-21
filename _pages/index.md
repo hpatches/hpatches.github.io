@@ -3,8 +3,12 @@ layout: default
 avatar: true
 permalink: /
 ---
-<!-- ## 🗨️ Introduction -->
-⚠ Website is under construction.
+
+## 🗃 Repositories related to HPatches
+
+| [`hpatches-benchmark`](https://github.com/hpatches/hpatches-benchmark)   | evaluation code |
+| [`hpatches-decriptors`](https://github.com/hpatches/hpatches-descriptors)| pre-computed descriptor templates | 
+| [`hpatches-dataset`](https://github.com/hpatches/hpatches-dataset)  | details about the dataset | 
 
 ---
 
