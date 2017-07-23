@@ -34,6 +34,5 @@ title = {HPatches: A benchmark and evaluation of handcrafted and learned local d
 booktitle = {CVPR},
 year = {2017}}
 {% endhighlight %}
-
-
-![montage]({{ site.url }}/assets/montage.png)
+    
+<amp-img class="avatar" src="/assets/montage.png" width="100" height="90" layout="responsive" alt="HPatches" ></amp-img>
