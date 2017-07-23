@@ -15,15 +15,15 @@ permalink: /
 
 ## <i class="fa fa-user" aria-hidden="true"></i> People
 
-- Vassileios Balntas, Imperial College London
-- Karel Lenc, University of Oxford
-- Andrea Vedaldi, University of Oxford
-- Krystian Mikolajczyk, Imperial College London
+- [Vassileios Balntas](http://www.iis.ee.ic.ac.uk/~vbalnt/), Imperial College London
+- [Karel Lenc](http://www.robots.ox.ac.uk/~karel/), University of Oxford
+- [Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/), University of Oxford
+- [Krystian Mikolajczyk](https://www.imperial.ac.uk/people/k.mikolajczyk), Imperial College London
 
 ---
 
 ## <i class="fa fa-book" aria-hidden="true"></i> Publications
-HPatches: A benchmark and evaluation of handcrafted and learned local descriptors  
+[HPatches: A benchmark and evaluation of handcrafted and learned local descriptors](https://arxiv.org/abs/1704.05939)  
 Vassileios Balntas<sup>*</sup>, Karel Lenc<sup>*</sup>, Andrea Vedaldi and Krystian Mikolajczyk, CVPR 2017.  
 <sup>*</sup>Authors contributed equally.
 
@@ -34,3 +34,6 @@ title = {HPatches: A benchmark and evaluation of handcrafted and learned local d
 booktitle = {CVPR},
 year = {2017}}
 {% endhighlight %}
+
+
+![montage]({{ site.url }}/assets/montage.png)
