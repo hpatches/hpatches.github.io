@@ -15,7 +15,7 @@ permalink: /
 
 ## <i class="fa fa-user" aria-hidden="true"></i> People
 
-- [Vassileios Balntas](http://www.iis.ee.ic.ac.uk/~vbalnt/), Imperial College London
+- [Vassileios Balntas](http://www.robots.ox.ac.uk/~balntas/), Imperial College London
 - [Karel Lenc](http://www.robots.ox.ac.uk/~karel/), University of Oxford
 - [Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/), University of Oxford
 - [Krystian Mikolajczyk](https://www.imperial.ac.uk/people/k.mikolajczyk), Imperial College London
